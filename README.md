@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/uc?export=view&id=1P4O0ng_g1BbpVnULeRivDwRh4OEn8m36)](https://github.com/OtKwesi/)
 <h1 align="center">Hello 👋, I'm Emmit</h1>
 <h3 align="center">I'm a Data Science Analyst with 5+ years of experience in building results-driven solutions for businesses </h3>
-<img align="right" alt="My Image" width="400" src="https://drive.google.com/uc?export=view&id=18ZHYzuswnfJ-Zc2sOG4LKrHtBRXDREAx">
+<!-- <img align="right" alt="My Image" width="400" src="https://drive.google.com/uc?export=view&id=1zXxtS80NhpN4B4XDk-LAtLQT9pzvtdnD"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otkwesi&label=Profile%20views&color=0e75b6&style=flat" alt="otkwesi" /> </p>
