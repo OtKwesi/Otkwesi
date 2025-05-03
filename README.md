@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otkwesi&label=Profile%20views&color=0e75b6&style=flat" alt="otkwesi" /> </p>
 
-- 🌱 I’m currently learning **AI-Driven Business Simulation Modelling**
+- 🌱 I’m currently working on **AI-Driven Business Simulation Modelling**
 
 - 📝 I regularly write articles on [https://medium.com/@emmitkotoo](https://medium.com/@emmitkotoo)
 
