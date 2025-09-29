@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://drive.google.com/uc?export=view&id=1P4O0ng_g1BbpVnULeRivDwRh4OEn8m36)](https://github.com/OtKwesi/) -->
 <h1 align="center">Hello 👋, I'm Emmit</h1>
-<h3 align="center">I'm a data science analyst with 5+ years of experience in building results-driven solutions for businesses </h3>
+<h3 align="center">I'm a data science analyst with 3+ years of experience in building results-driven solutions for businesses </h3>
 <!-- <img align="right" alt="My Image" width="400" src="https://drive.google.com/uc?export=view&id=1zXxtS80NhpN4B4XDk-LAtLQT9pzvtdnD"> -->
 
 
